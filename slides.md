@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD. ✨
- - Exploring the world of Continuous Testing, Integration, and Deployment. ✨
- - Describing the requirements for code and the development process. ✨
- - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ✨
- - Recognizing the importance of operations and documentation. ✨
+ - Understanding the core concepts and fundamentals of CI/CD. ️
+ - Exploring the world of Continuous Testing, Integration, and Deployment. ️
+ - Describing the requirements for code and the development process. ️
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ️
+ - Recognizing the importance of operations and documentation. ️
 
 ---
 layout: two-cols
@@ -49,9 +49,10 @@ layout: two-cols
 
 # Prerequisites
 
- - **Basic Understanding of Software Development**
- - **Interest in IT Operations**
- - **Enthusiasm for Collaborative Work**
+ - **Prerequisites**
+ - Basic Understanding of Software Development
+ - Interest in IT Operations
+ - Enthusiasm for Collaborative Work
 
 
 ::right::
@@ -120,9 +121,9 @@ How can this Problem be solved? 🤔
 # Solving the problem of accelerating software delivery while preserving quality and security through DevOps principles and practices.
 
 
-# Solving the problem of accelerating software delivery while preserving quality and security through the adoption of DevOps principles and practices.
+# By embracing a culture of collaboration, automation, and continuous improvement, organizations can streamline their development and operations processes, leading to faster and more efficient software delivery.
 
-# Solving the problem of accelerating software delivery while preserving quality and security through the adoption of DevOps principles and practices.
+# By embracing a culture of collaboration, automation, and continuous improvement, organizations can streamline their development and operations processes, leading to faster and more efficient software delivery.
 
 ---
 layout: center
