@@ -49,9 +49,9 @@ layout: two-cols
 
 # Prerequisites
 
- - Basic Understanding of Software Development ✅
- - Interest in IT Operations ✅
- - Enthusiasm for Collaborative Work ✅
+ - Basic Understanding of Software Development
+ - Interest in IT Operations
+ - Enthusiasm for Collaborative Work
 
 
 ::right::
