@@ -49,7 +49,7 @@ layout: two-cols
 
 # Prerequisites
 
- - **Prerequisites**
+ - **Prerequisites:**
  - Basic Understanding of Software Development
  - Interest in IT Operations
  - Enthusiasm for Collaborative Work
@@ -121,9 +121,9 @@ How can this Problem be solved? 🤔
 # Solving the problem of accelerating software delivery while preserving quality and security through DevOps principles and practices.
 
 
-# By embracing a culture of collaboration, automation, and continuous improvement, organizations can streamline their development and operations processes, leading to faster and more efficient software delivery.
+# Solving the problem of accelerating software delivery while preserving quality and security through the adoption of DevOps principles and practices.
 
-# By embracing a culture of collaboration, automation, and continuous improvement, organizations can streamline their development and operations processes, leading to faster and more efficient software delivery.
+# Solving the problem of accelerating software delivery while preserving quality and security through the adoption of DevOps principles and practices.
 
 ---
 layout: center
