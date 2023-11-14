@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD. ️
- - Exploring the world of Continuous Testing, Integration, and Deployment. ️
- - Describing the requirements for code and the development process. ️
- - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ️
- - Recognizing the importance of operations and documentation. ️
+ - Understanding the core concepts and fundamentals of CI/CD. 💡
+ - Exploring the world of Continuous Testing, Integration, and Deployment. 🚀
+ - Describing the requirements for code and the development process. 📝
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. 🔧
+ - Recognizing the importance of operations and documentation. 📚
 
 ---
 layout: two-cols
@@ -49,7 +49,7 @@ layout: two-cols
 
 # Prerequisites
 
- - **Prerequisites**
+ - **Prerequisites:**
  - Basic Understanding of Software Development
  - Interest in IT Operations
  - Enthusiasm for Collaborative Work
