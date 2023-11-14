@@ -10,7 +10,7 @@ layout: intro
 
 ## Micro-Credential Introduction
 
-Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation to accelerate software delivery while maintaining quality and security. Test
+Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation to accelerate software delivery while maintaining quality and security.
 
 ---
 layout: about-me
