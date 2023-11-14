@@ -15,7 +15,7 @@ Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, 
 
 ---
 layout: about-me
-presenterImage: https://media.licdn.com/dms/image/C4D03AQE6FWkLEdjqWA/profile-displayphoto-shrink_800_800/0/1645702648137?e=1704326400&v=beta&t=7T3vmPXEuPesCVwZhozHn-Vu3DZ9hiLQqfO_m0tINLA
+presenterImage: ./images/Chris.jpg
 ---
 
 # Christian Gubesch 🚀
@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD. 🔬
- - Exploring the world of Continuous Testing, Integration, and Deployment. 🚀
- - Describing the requirements for code and the development process. 💻
- - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. 🔧
- - Recognizing the importance of operations and documentation. 📄
+ - Understanding the core concepts and fundamentals of CI/CD. ️
+ - Exploring the world of Continuous Testing, Integration, and Deployment. ️
+ - Describing the requirements for code and the development process. ️
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ️
+ - Recognizing the importance of operations and documentation. ️
 
 ---
 layout: two-cols
@@ -103,7 +103,7 @@ layout: center
 
 What Problem do we want to address? 🎯
 
-# How can software delivery be accelerated while maintaining quality and security?
+# How can organizations deliver high-quality software products and services rapidly while maintaining reliability and security?
 
 
 
@@ -114,7 +114,7 @@ layout: center
 
 How can this Problem be solved? 🤔
 
-# By embracing a culture of collaboration, automation, and continuous improvement.
+# The problem of accelerating software delivery while preserving quality and security can be solved through the adoption of DevOps principles and practices.
 
 
 
