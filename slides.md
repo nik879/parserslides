@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD. 💡
- - Exploring the world of Continuous Testing, Integration, and Deployment. 🚀
- - Describing the requirements for code and the development process. 📝
- - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. 🔧
- - Recognizing the importance of operations and documentation. 📚
+ - Understanding the core concepts and fundamentals of CI/CD. ️
+ - Exploring the world of Continuous Testing, Integration, and Deployment. ️
+ - Describing the requirements for code and the development process. ️
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ️
+ - Recognizing the importance of operations and documentation. ️
 
 ---
 layout: two-cols
@@ -106,6 +106,9 @@ What Problem do we want to address? 🎯
 # How can organizations deliver high-quality software products and services rapidly while maintaining reliability and security?
 
 
+# How can organizations deliver high-quality software products and services rapidly while maintaining reliability and security?
+
+# How can organizations deliver high-quality software products and services rapidly while maintaining reliability and security?
 
 ---
 layout: center
@@ -117,6 +120,9 @@ How can this Problem be solved? 🤔
 # Solving the problem of accelerating software delivery while preserving quality and security through DevOps principles and practices.
 
 
+# Accelerating software delivery while preserving quality and security can be achieved through the adoption of DevOps principles and practices.
+
+# Accelerating software delivery while preserving quality and security can be achieved through the adoption of DevOps principles and practices.
 
 ---
 layout: center
