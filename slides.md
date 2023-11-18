@@ -11,7 +11,7 @@ layout: intro
 ## Micro-Credential Introduction
 
 
-Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation.
+Welcome to the DevOps Course, exploring the world of DevOps, collaboration, and automation.
 
 ---
 layout: about-me
@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD. ⭐️
- - Exploring the world of Continuous Testing, Integration, and Deployment. ⭐️
- - Describing the requirements for code and the development process. ⭐️
- - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ⭐️
- - Recognizing the importance of operations and documentation. ⭐️
+ - Understanding the core concepts and fundamentals of CI/CD. ⚙️
+ - Exploring Continuous Testing, Integration, and Deployment. 🚀
+ - Describing the requirements for code and the development process. 📝
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. 🔧
+ - Recognizing the importance of operations and documentation. 📊
 
 ---
 layout: two-cols
@@ -49,11 +49,11 @@ layout: two-cols
 
 # Prerequisites
 
- - **Basic Understanding of Software Development**
- - **Interest in IT Operations**
- - **Enthusiasm for Collaborative Work**
- - **content**
- - **content**
+ - Basic Understanding of Software Development
+ - Interest in IT Operations
+ - Enthusiasm for Collaborative Work
+ - Familiarity with DevOps Principles
+ - Interest in Continuous Improvement
 
 
 ::right::
@@ -116,7 +116,7 @@ layout: center
 
 How can this Problem be solved? 🤔
 
-# Through the adoption of DevOps principles and practices.
+# Through the adoption of DevOps principles and practices, embracing a culture of collaboration, automation, and continuous improvement.
 
 
 
@@ -127,7 +127,7 @@ layout: center
 
 Why it is attractive for you to solve this Problem? 🔎
 
-# Personal and professional growth in the IT industry.
+# Mastering DevOps concepts and practices, becoming a sought-after professional in the IT industry.
 
 
 
