@@ -11,7 +11,7 @@ layout: intro
 ## Micro-Credential Introduction
 
 
-Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation to accelerate software delivery while maintaining quality and security.
+Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation.
 
 ---
 layout: about-me
@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - 🎯 Understanding the core concepts and fundamentals of CI/CD.
- - 🎯 Exploring the world of Continuous Testing, Integration, and Deployment.
- - 🎯 Describing the requirements for code and the development process.
- - 🎯 Gaining insights into popular DevOps tools like Terraform, Ansible, and more.
- - 🎯 Recognizing the importance of operations and documentation.
+ - Understanding the core concepts and fundamentals of CI/CD. ⭐️
+ - Exploring the world of Continuous Testing, Integration, and Deployment. ⭐️
+ - Describing the requirements for code and the development process. ⭐️
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. ⭐️
+ - Recognizing the importance of operations and documentation. ⭐️
 
 ---
 layout: two-cols
@@ -49,11 +49,11 @@ layout: two-cols
 
 # Prerequisites
 
- - **Prerequisite 1**: Basic Understanding of Software Development
- - **Prerequisite 2**: Interest in IT Operations
- - **Prerequisite 3**: Enthusiasm for Collaborative Work
- - **Prerequisite 4**: Familiarity with CI/CD concepts
- - **Prerequisite 5**: Knowledge of software development lifecycle
+ - **Basic Understanding of Software Development**
+ - **Interest in IT Operations**
+ - **Enthusiasm for Collaborative Work**
+ - **content**
+ - **content**
 
 
 ::right::
@@ -105,7 +105,7 @@ layout: center
 
 What Problem do we want to address? 🎯
 
-# What problem do we want to address? How to deliver high-quality software products and services rapidly while maintaining reliability and security?
+# How to deliver high-quality software products and services rapidly while maintaining reliability and security.
 
 
 
@@ -116,7 +116,7 @@ layout: center
 
 How can this Problem be solved? 🤔
 
-# By embracing a culture of collaboration, automation, and continuous improvement, organizations can streamline their development and operations processes, leading to faster and more efficient software delivery.
+# Through the adoption of DevOps principles and practices.
 
 
 
@@ -127,7 +127,7 @@ layout: center
 
 Why it is attractive for you to solve this Problem? 🔎
 
-# Why it is attractive for you to solve this problem? Solving this problem presents an exciting opportunity for personal and professional growth. By mastering DevOps concepts and practices, you'll become a sought-after professional in the IT industry.
+# Personal and professional growth in the IT industry.
 
 
 
