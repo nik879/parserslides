@@ -11,7 +11,7 @@ layout: intro
 ## Micro-Credential Introduction
 
 
-Welcome to the DevOps Course, exploring the world of DevOps, collaboration, and automation.
+Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation to accelerate software delivery while maintaining quality and security.
 
 ---
 layout: about-me
@@ -37,11 +37,11 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD.  ⭐️
- - Exploring Continuous Testing, Integration, and Deployment.  🚀
- - Describing the requirements for code and the development process.  📝
- - Gaining insights into popular DevOps tools like Terraform, Ansible, and more.  🛠️
- - Recognizing the importance of operations and documentation.  📊
+ - Understanding the core concepts and fundamentals of CI/CD. ⚙️
+ - Exploring the world of Continuous Testing, Integration, and Deployment. 🔄
+ - Describing the requirements for code and the development process. 📝
+ - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. 🔧
+ - Recognizing the importance of operations and documentation. 📊
 
 ---
 layout: two-cols
@@ -52,8 +52,8 @@ layout: two-cols
  - Basic Understanding of Software Development
  - Interest in IT Operations
  - Enthusiasm for Collaborative Work
- - Curiosity for Continuous Improvement
- - Willingness to Embrace Automation
+ - Familiarity with CI/CD concepts
+ - Interest in IT Security
 
 
 ::right::
@@ -105,7 +105,7 @@ layout: center
 
 What Problem do we want to address? 🎯
 
-# How to deliver high-quality software products and services rapidly while maintaining reliability and security.
+# How to accelerate software delivery while maintaining quality and security?
 
 
 
@@ -116,7 +116,7 @@ layout: center
 
 How can this Problem be solved? 🤔
 
-# Through the adoption of DevOps principles and practices, embracing a culture of collaboration, automation, and continuous improvement.
+# The problem can be solved through the adoption of DevOps principles and practices.
 
 
 
@@ -127,7 +127,7 @@ layout: center
 
 Why it is attractive for you to solve this Problem? 🔎
 
-# Mastering DevOps concepts and practices, becoming a sought-after professional in the IT industry.
+# Solving this problem presents an exciting opportunity for personal and professional growth.
 
 
 
