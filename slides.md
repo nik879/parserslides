@@ -11,7 +11,7 @@ layout: intro
 ## Micro-Credential Introduction
 
 
-Welcome to the DevOps Course, where we'll explore the exciting world of DevOps, collaboration, and automation to accelerate software delivery while maintaining quality and security.
+Welcome to the DevOps Course, exploring the world of collaboration and automation.
 
 ---
 layout: about-me
@@ -37,8 +37,8 @@ layout: default
 # Learning Objectives
 
 
- - Understanding the core concepts and fundamentals of CI/CD. ⚙️
- - Exploring the world of Continuous Testing, Integration, and Deployment. 🔄
+ - Understanding the core concepts and fundamentals of CI/CD. ⏱️
+ - Exploring Continuous Testing, Integration, and Deployment. 🚀
  - Describing the requirements for code and the development process. 📝
  - Gaining insights into popular DevOps tools like Terraform, Ansible, and more. 🔧
  - Recognizing the importance of operations and documentation. 📊
@@ -49,11 +49,11 @@ layout: two-cols
 
 # Prerequisites
 
- - Basic Understanding of Software Development
- - Interest in IT Operations
- - Enthusiasm for Collaborative Work
- - Familiarity with CI/CD concepts
- - Interest in IT Security
+ - Basic Understanding of Software Development 📚
+ - Interest in IT Operations 💻
+ - Enthusiasm for Collaborative Work 🤝
+ - Openness to Continuous Learning 📖
+ - Familiarity with Agile Methodologies 🔄
 
 
 ::right::
@@ -105,7 +105,7 @@ layout: center
 
 What Problem do we want to address? 🎯
 
-# How to accelerate software delivery while maintaining quality and security?
+# How to deliver high-quality software products and services rapidly while maintaining reliability and security.
 
 
 
@@ -116,7 +116,7 @@ layout: center
 
 How can this Problem be solved? 🤔
 
-# The problem can be solved through the adoption of DevOps principles and practices.
+# Through the adoption of DevOps principles and practices, embracing a culture of collaboration, automation, and continuous improvement.
 
 
 
